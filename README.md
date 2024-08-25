@@ -17,9 +17,9 @@ HOW TO RUNN IN TERMUX
 2.Open Termux
 
 3.Paste on terminal(download module):
-
+```js
 pkg update && pkg upgrade
-
+```
 pkg install python
 
 4.Find Your script in Storage
