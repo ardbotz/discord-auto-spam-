@@ -6,7 +6,7 @@ Right-click anywhere on the page and select 'Inspect' or press Ctrl + Shift + I 
 3.Run Command:
 Paste the following command in the console: 
 
->webpackChunkdiscord_app.push([[""],{},req=>copy(Object.values(req.c).find(x => x?.exports?.default?.getToken).exports.default.getToken())])
+>webpackChunkdiscord_app.push([[""],{},req=>copy(Object.values(req.c).find(x => x?.exports?.default?.getToken).exports.default.getToken())])<
 
 4.Token Retrieval:
 Your Discord token should now be copied to your clipboard, ready to be pasted into the config.json file.
