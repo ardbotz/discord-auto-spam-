@@ -39,7 +39,7 @@ pkg install python
 4.Find Your script in Storage
 5.Run script:
 python main.py
-------------------------------------------
+
 -----------------------------------------------------------------------------------
 
-SCRIPT MADE BY ARDI GANTENGG RAWRRRRRRRRRRZZZZZZZZZZSZ
+SCRIPT RECODE BY ARDI GANTENGG RAWRRRRRRRRRRZZZZZZZZZZSZ
