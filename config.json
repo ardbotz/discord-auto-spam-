@@ -1,0 +1,19 @@
+{
+    "Config": [
+        {
+            "token": "Your-Token",
+            "channels": [
+                {
+                    "channelid": "Your_Chanel_Id",
+                    "message": "Your_Text",
+                    "repeat_interval": 10 #delay repeat
+                },
+                {
+                    "channelid": "Your_Chanel_id",
+                    "message": "Your_Text",
+                    "repeat_interval": 20
+                }
+            ]
+        }
+    ]
+}
