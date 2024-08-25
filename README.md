@@ -1,13 +1,18 @@
 HOW TO RUNN IN TERMUX
 ------------------------------------------
 1.Download Termux in browser
+
 2.Open Termux
+
 3.Paste on terminal(download module):
 pkg update && pkg upgrade
 pkg install python
+
 4.Find Your script in Storage
+
 5.Fill channel id & authorization token in config.json
-5.Run script:
+
+6.Run script:
 python main.py
 
 How To Get Discord Token??
