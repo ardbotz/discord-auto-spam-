@@ -20,8 +20,9 @@ HOW TO RUNN IN TERMUX
 ```js
 pkg update && pkg upgrade
 ```
+```js
 pkg install python
-
+```
 4.Find Your script in Storage
 
 5.Open config.json
