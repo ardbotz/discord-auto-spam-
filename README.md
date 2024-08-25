@@ -1,3 +1,15 @@
+## Setup
+1. **Fill Out The Config**:
+- Open the config.json file and provide the necessary information.
+2. **Run the Script:**
+- Execute the command python main.py in your terminal.
+3. **Done!**
+- Your script is now running, sending messages automatically based on the specified configuration.
+4. **Customization:**
+- If you wish to make further changes, feel free to explore and modify the script according to your preferences.
+
+
+
 HOW TO RUNN IN TERMUX
 ------------------------------------------
 1.Download Termux in browser
@@ -10,9 +22,13 @@ pkg install python
 
 4.Find Your script in Storage
 
-5.Fill channel id & authorization token in config.json
+5.Open config.json
 
-6.Run script:
+6.Fill your token authorization & channel id!!
+
+7.Set Text & delay 
+
+8.Run script:
 python main.py
 
 How To Get Discord Token??
